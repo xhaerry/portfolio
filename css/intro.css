@@ -39,7 +39,7 @@ ul,ol {
     text-align: end;
   }
   .pfimg {
-    width: 200px;
+    width: 300px;
   }
   .box2 {
     /* border: solid 1px red; */
@@ -47,7 +47,7 @@ ul,ol {
     padding-top: 200px;
   }
   .info1 {
-    color: #727c89;
+    color: #a18cd1;
     font-weight: 800;
     font-size: 28px;
   }
@@ -57,7 +57,7 @@ ul,ol {
     font-weight: 600;
     color: #777;
     font-size: 17px;
-    padding-top: 10px;
+    padding-top: 40px;
   }
 
 /* cont2 */
@@ -274,4 +274,7 @@ ul,ol {
   color: #727c89;
   font-size: 30px; font-weight: 700;
   line-height: 2;
+}
+.crh {
+  color: #a18cd1;
 }
